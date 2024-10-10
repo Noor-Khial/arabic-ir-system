@@ -30,7 +30,7 @@ pip install pyterrier pandas transformers torch faiss arabicstopwords snowballst
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/arabic-ir-system.git
+   git clone https://github.com/Noor-Khial/Arabic-Information-Retrieval-System-.git
    cd arabic-ir-system
    ```
 
